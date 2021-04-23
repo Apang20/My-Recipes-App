@@ -28,6 +28,5 @@ A user can do all of the following:
 
 ## Resources
 - [Google Fonts](https://fonts.google.com/)
-- [Edamam](https://developer.edamam.com/)
+- API: [Edamam](https://developer.edamam.com/)
 
-- [Edamam] (https://developer.edamam.com/)
