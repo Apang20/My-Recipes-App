@@ -14,7 +14,7 @@ A react application that allows users to search for a vareity of recipes
 
 
 ## To Start This Project
-- Run npm install, npm start 
+- Run npm install, then run npm start 
 
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
