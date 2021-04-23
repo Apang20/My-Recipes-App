@@ -4,7 +4,7 @@
 
 
 ## Overview
-A react application that allows users to search for a vareity of recipes 
+A simple react application that allows users to search for a vareity of recipes 
 
 
 
