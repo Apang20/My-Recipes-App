@@ -28,5 +28,5 @@ A user can do all of the following:
 
 ## Resources
 - [Google Fonts](https://fonts.google.com/)
-- API: [Edamam](https://developer.edamam.com/)
+- Recipe Search API: [Edamam](https://developer.edamam.com/)
 
