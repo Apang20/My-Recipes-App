@@ -22,7 +22,9 @@ A react application that allows users to search for a vareity of recipes
 
 ## User Stories
 A user can do all of the following: 
-- Search for specific recipes 
+- Filter recipes in the searchbar
+- Browse recipes 
+- View images and recipe data 
 
 
 
