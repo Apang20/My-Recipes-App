@@ -1,4 +1,4 @@
-#  :fork_and_knife: My Recipes  🧑‍🍳
+#  :fork_and_knife: Yum Recipes  🧑‍🍳
 
 
 
@@ -14,17 +14,18 @@ A react application that allows users to search for a vareity of recipes
 
 
 ## To Start This Project
-- Run npm install, then run npm start 
+- Run npm install
+- Run npm start 
 
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
 ## User Stories
-A user can do all of the following: 
+A user can do the following: 
 - Filter recipes in the searchbar
-- Browse recipes 
-- View images and recipe data 
+- Browse all recipes and ingredients
+- View images of the recipe 
 
 
 
