@@ -32,7 +32,7 @@ const App = () => {
   }
   return (
     <div className="App">
-    <header><b>Recipe Catalogue</b></header><br/>
+    <header><b>Welcome to Yum Recipes!</b></header><br/>
     <form onSubmit={getSearch} className="search-form"><br/>
         <input
           className="search-bar"
