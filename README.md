@@ -9,7 +9,7 @@ A react application that allows users to search for a vareity of recipes
 
 
 ## Technologies 
-- Utilized JavaScript with React hooks and a ReactJS framework. 
+- Utilized JavaScript with React hooks, a ReactJS framework and an external API. 
 
 
 
@@ -28,3 +28,4 @@ A user can do all of the following:
 
 ## Resources
 - [Google Fonts](https://fonts.google.com/)
+- [Edamam] (https://developer.edamam.com/)
