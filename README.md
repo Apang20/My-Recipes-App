@@ -1,4 +1,4 @@
-#  :fork_and_knife: My Recipes  :mag: :chef:
+#  :fork_and_knife: My Recipes  :mag: 🧑‍🍳
 
 
 
