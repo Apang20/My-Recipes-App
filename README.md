@@ -9,7 +9,7 @@ A simple react application that allows users to search for a vareity of recipes
 
 
 ## Technologies 
-- Utilized JavaScript with React hooks, a ReactJS framework and an external API. 
+- Fetched data from an API with React Hooks
 
 
 
